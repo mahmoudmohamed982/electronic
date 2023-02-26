@@ -1,0 +1,58 @@
+let productsDB = [
+  {
+    id: 1,
+    title: "headphone ",
+    desc: "Lorem ipsum, dolor sit amet consectetur.",
+    size: "large",
+    imageUrl: "images/p01.jpeg",
+    qty: 1,
+    isMe: "N",
+  },
+  {
+    id: 2,
+    title: " wire headphone ",
+    desc: "Lorem ipsum, dolor sit amet consectetur.",
+    size: "small",
+    imageUrl: "images/p02.jpeg",
+    qty: 1,
+    isMe: "N",
+  },
+  {
+    id: 3,
+    title: "smart watch ",
+    desc: "Lorem ipsum, dolor sit amet consectetur.",
+    size: "medium",
+    imageUrl: "images/p03.jpeg",
+    qty: 1,
+    isMe: "N",
+  },
+  {
+    id: 4,
+    title: "watch ",
+    desc: "Lorem ipsum, dolor sit amet consectetur.",
+    size: "large",
+    imageUrl: "images/p04.jpeg",
+    qty: 1,
+    isMe: "N",
+  },
+  {
+    id: 5,
+    title: "samsung ",
+    desc: "Lorem ipsum, dolor sit amet consectetur.",
+    size: "medium",
+    imageUrl: "images/p05.jpeg",
+    qty: 1,
+    isMe: "N",
+  },
+  {
+    id: 6,
+    title: "relme ",
+    desc: "Lorem ipsum, dolor sit amet consectetur.",
+    size: "large",
+    imageUrl: "images/p06.jpeg",
+    qty: 1,
+    isMe: "N",
+  },
+];
+
+// localStorage.setItem("products", JSON.stringify(productsDB));
